@@ -1,8 +1,8 @@
 # 1. String
 
-movieName = ""
+movieName = "om shanti om"
 
-main_character = "judy hopes"
+main_character = "Shah Rukh Khan"
 
 print("movieName data type", type(movieName))
 
